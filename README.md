@@ -11,7 +11,7 @@
 
 ## Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e Técnico em Informática para Internet, com foco em desenvolvimento back-end utilizando C# e .NET.
+Sou estudante de Análise e Desenvolvimento de Sistemas no **Instituto Infnet** e Técnico em Informática para Internet, com foco em desenvolvimento back-end utilizando C# e .NET.
 
 Atualmente estou aprofundando meus conhecimentos em desenvolvimento de APIs REST, Entity Framework Core, SQL Server, testes automatizados, Docker e CI/CD, aplicando esses conceitos em projetos práticos.
 
