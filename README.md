@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá! Eu sou Júlio César 👋
 
-<!--
-**jroquebento/jroquebento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de ADS | C#/.NET | ASP.NET Core**
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de Análise e Desenvolvimento de Sistemas e Técnico em Informática para Internet, com foco em desenvolvimento back-end utilizando C# e .NET.
+
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento de APIs REST, Entity Framework Core, SQL Server, testes automatizados, Docker e CI/CD, aplicando esses conceitos em projetos práticos.
+
+## Tecnologias
+
+- **Linguagem:** C#
+- **Framework:** .NET, ASP.NET Core
+- **Banco de dados:** SQL Server, MySQL
+- **ORM:** Entity Framework Core
+- **Testes:** xUnit, Moq
+- **DevOps e CI/CD:** Docker, GitHub Actions
+- **Versionamento:** Git, GitHub
+- **Web:** HTML, CSS, JavaScript
+
+## Projeto em destaque
+
+### TaskManager API
+
+API REST para gerenciamento de tarefas desenvolvida com **C# e .NET 10**.
+
+Projeto desenvolvido com foco em aprendizado prático e construção de portfólio, aplicando conceitos de desenvolvimento back-end, incluindo regras de negócio, autenticação e autorização, Entity Framework Core, SQL Server, testes automatizados, Docker e CI/CD com GitHub Actions.
+
+[🔗 Ver projeto](https://github.com/jroquebento/TaskManager)
