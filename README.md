@@ -8,7 +8,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-Sou técnico em Informática e estudante de Análise e Desenvolvimento de Sistemas (Instituto Infnet). Tenho vivência prática no chão de fábrica em **operações de almoxarifado, logística e WMS** e decidi trazer esse conhecimento de regras de negócio do mundo real para o código.
+Sou técnico em Informática e estudante de Análise e Desenvolvimento de Sistemas (Instituto Infnet). Trago experiência real com **processos logísticos, controle de estoque e operação de sistemas WMS**, e decidi trazer esse conhecimento analítico e de regras de negócio para o código.
 
 Hoje, meu foco é desenvolver sistemas estruturados e APIs robustas utilizando **C#, .NET e Clean Architecture**, enquanto expando minhas entregas Full-Stack com **React e TypeScript**.
 
